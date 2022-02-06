@@ -1,0 +1,4 @@
+kalc usr/bin/
+kalc.1 usr/share/man/man1/
+kalc.svg usr/share/pixmaps/
+kalc.desktop usr/share/applications/

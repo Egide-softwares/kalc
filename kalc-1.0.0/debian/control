@@ -1,0 +1,14 @@
+Source: kalc
+Section: python
+Maintainer: Harerimana Egide <egideharerimana085@gmail.com>
+Build-Depends: debhelper (>= 7),
+               python3 (>= 3.8),
+			   python3.8-tk,
+Standards-Version: 4.5.0
+Priority: optional
+
+Package: kalc
+Architecture: all
+Section: python
+Depends: python3 (>=3.8), python3.8-tk, ${misc:Depends}
+Description: A Simple but excellent calculator to demonstrate scamming. FOR EDUCATIONAL PURPOSES ONLY!

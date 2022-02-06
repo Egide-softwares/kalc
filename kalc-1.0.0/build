@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+pandoc kalc.1.md -s -t man > kalc.1
+debuild --no-tgz-check -uc -us
+debuild -T clean

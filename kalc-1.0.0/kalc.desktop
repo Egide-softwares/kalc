@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Kalc
+Comment=Excellent calculator [TO DEMONSTRATE SCAMMING].
+Exec=/usr/bin/kalc
+Icon=kalc
+Type=Application
+StartupNotify=true
+Terminal=false
+StartupWMClass=Kalc
+Categories=Utility;Calculator;
+Keywords=calculator;kalc;calculation;arithmetic;scientific;financial;
