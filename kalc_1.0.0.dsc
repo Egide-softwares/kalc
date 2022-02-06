@@ -9,8 +9,8 @@ Build-Depends: debhelper (>= 7), python3 (>= 3.8), python3.8-tk
 Package-List:
  kalc deb python optional arch=all
 Checksums-Sha1:
- f9a232fe088134410b2fcd0d33e4a63927ec6b9d 5268 kalc_1.0.0.tar.xz
+ e33e26acfefca60b0877230fd76b2544356dbf31 5260 kalc_1.0.0.tar.xz
 Checksums-Sha256:
- d38d0fcd4116a69cc57ce923091f2c4f0be43056131cb6563594ea9b40f8bc61 5268 kalc_1.0.0.tar.xz
+ 72ebc24e6edc6b8e749fe902ff7b1053f17b280571b6853b14e1ca89a4786b66 5260 kalc_1.0.0.tar.xz
 Files:
- f28b3bddb604f841248892c4f6ff8b71 5268 kalc_1.0.0.tar.xz
+ 8d5f9da9d07b497b4c335a592cb99172 5260 kalc_1.0.0.tar.xz

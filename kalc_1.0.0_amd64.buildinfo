@@ -4,17 +4,17 @@ Binary: kalc
 Architecture: all source
 Version: 1.0.0
 Checksums-Md5:
- a6078ce3b1b28fa1b4e2576601dd445d 530 kalc_1.0.0.dsc
- 1397589ae340389f7d6dec8372515852 5724 kalc_1.0.0_all.deb
+ 0d19e6d8822814bb5c80103ec1c14b2f 530 kalc_1.0.0.dsc
+ 93cafde8ed1aabbf4c92fcb87ad1db80 5716 kalc_1.0.0_all.deb
 Checksums-Sha1:
- 7cdbb5fa64b5080ebf2629e9cf25fe304e7cad2a 530 kalc_1.0.0.dsc
- d80c8a9c3e919b17b3f91cfb4f48a4aea8f17c73 5724 kalc_1.0.0_all.deb
+ 5b9bb9cb5835339b19f23f8c1760c21a8564255e 530 kalc_1.0.0.dsc
+ fec449135824ae9e2a4208add8527a7029dc1a66 5716 kalc_1.0.0_all.deb
 Checksums-Sha256:
- 7664023c44a4937b9bbff2f700ba9a15240db950644d54a11f7a5cbb4e4fa9df 530 kalc_1.0.0.dsc
- c7945990c08b382d9385e137dcc7b7e594eb4d878a6dbefc6280ee309a842f24 5724 kalc_1.0.0_all.deb
+ a414d50731113c98997b4d1830f35582f183416dd8461365512657ed63d05b72 530 kalc_1.0.0.dsc
+ c862584e949080aeccabc0ac7c982c795554f4a8a3765e1a963956ef6ff1d2b3 5716 kalc_1.0.0_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sat, 05 Feb 2022 18:34:39 +0200
+Build-Date: Sun, 06 Feb 2022 22:24:44 +0200
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:

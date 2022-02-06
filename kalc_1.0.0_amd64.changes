@@ -15,17 +15,17 @@ Changes:
  .
    * Initial release. (Closes: #XXXXXX)
 Checksums-Sha1:
- 7cdbb5fa64b5080ebf2629e9cf25fe304e7cad2a 530 kalc_1.0.0.dsc
- f9a232fe088134410b2fcd0d33e4a63927ec6b9d 5268 kalc_1.0.0.tar.xz
- d80c8a9c3e919b17b3f91cfb4f48a4aea8f17c73 5724 kalc_1.0.0_all.deb
- b45bfb8b6553abb06fec54fa5f33dc19d77429b4 6726 kalc_1.0.0_amd64.buildinfo
+ 5b9bb9cb5835339b19f23f8c1760c21a8564255e 530 kalc_1.0.0.dsc
+ e33e26acfefca60b0877230fd76b2544356dbf31 5260 kalc_1.0.0.tar.xz
+ fec449135824ae9e2a4208add8527a7029dc1a66 5716 kalc_1.0.0_all.deb
+ 7129b1a99e97c7f4a3b6a6474a10d5dc78651242 6726 kalc_1.0.0_amd64.buildinfo
 Checksums-Sha256:
- 7664023c44a4937b9bbff2f700ba9a15240db950644d54a11f7a5cbb4e4fa9df 530 kalc_1.0.0.dsc
- d38d0fcd4116a69cc57ce923091f2c4f0be43056131cb6563594ea9b40f8bc61 5268 kalc_1.0.0.tar.xz
- c7945990c08b382d9385e137dcc7b7e594eb4d878a6dbefc6280ee309a842f24 5724 kalc_1.0.0_all.deb
- 513a2c97f8152a13c35c762108392111cc6b910088d159894704484548124761 6726 kalc_1.0.0_amd64.buildinfo
+ a414d50731113c98997b4d1830f35582f183416dd8461365512657ed63d05b72 530 kalc_1.0.0.dsc
+ 72ebc24e6edc6b8e749fe902ff7b1053f17b280571b6853b14e1ca89a4786b66 5260 kalc_1.0.0.tar.xz
+ c862584e949080aeccabc0ac7c982c795554f4a8a3765e1a963956ef6ff1d2b3 5716 kalc_1.0.0_all.deb
+ 9a8ab710c8fdf5f2e00a98639408bb65fdf875231111043d8daefa09af272e90 6726 kalc_1.0.0_amd64.buildinfo
 Files:
- a6078ce3b1b28fa1b4e2576601dd445d 530 python optional kalc_1.0.0.dsc
- f28b3bddb604f841248892c4f6ff8b71 5268 python optional kalc_1.0.0.tar.xz
- 1397589ae340389f7d6dec8372515852 5724 python optional kalc_1.0.0_all.deb
- 5f486b27681ff305b7b820d1cfdba193 6726 python optional kalc_1.0.0_amd64.buildinfo
+ 0d19e6d8822814bb5c80103ec1c14b2f 530 python optional kalc_1.0.0.dsc
+ 8d5f9da9d07b497b4c335a592cb99172 5260 python optional kalc_1.0.0.tar.xz
+ 93cafde8ed1aabbf4c92fcb87ad1db80 5716 python optional kalc_1.0.0_all.deb
+ b105dc1aebba3a1db87eeb32b4419065 6726 python optional kalc_1.0.0_amd64.buildinfo
